@@ -1,0 +1,13 @@
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\bin\Debug\not_kayit.exe.config
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\bin\Debug\not_kayit.exe
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\bin\Debug\not_kayit.pdb
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\obj\Debug\not_kayit.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\obj\Debug\not_kayit.girisFormu.resources
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\obj\Debug\not_kayit.ogrenciDetay.resources
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\obj\Debug\not_kayit.ogretmenDetay.resources
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\obj\Debug\not_kayit.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\obj\Debug\not_kayit.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\obj\Debug\not_kayit.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\obj\Debug\not_kayit.exe
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\obj\Debug\not_kayit.pdb
+C:\Users\yurto\Documents\GitHub\Sinav_not_kayit_sistem\not_kayit\not_kayit\obj\Debug\not_kayit.exe.config

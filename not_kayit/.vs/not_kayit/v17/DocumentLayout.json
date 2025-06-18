@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|c:\\users\\yurto\\documents\\github\\sinav_not_kayit_sistem\\not_kayit\\not_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|solutionrelative:not_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|c:\\users\\yurto\\documents\\github\\sinav_not_kayit_sistem\\not_kayit\\not_kayit\\ogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|solutionrelative:not_kayit\\ogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|c:\\users\\yurto\\documents\\github\\sinav_not_kayit_sistem\\not_kayit\\not_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|solutionrelative:not_kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|c:\\users\\yurto\\documents\\github\\sinav_not_kayit_sistem\\not_kayit\\not_kayit\\ogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|solutionrelative:not_kayit\\ogrencidetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|c:\\users\\yurto\\documents\\github\\sinav_not_kayit_sistem\\not_kayit\\not_kayit\\girisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|solutionrelative:not_kayit\\girisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\girisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|solutionrelative:not_kayit\\girisformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\ogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DE56224-D430-4F53-B0F0-0A75C8BE1BDD}|not_kayit\\not_kayit.csproj|solutionrelative:not_kayit\\ogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\Form1.cs",
-              "RelativeDocumentMoniker": "not_kayit\\Form1.cs",
-              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\Form1.cs",
-              "RelativeToolTip": "not_kayit\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ogrenciDetay.cs",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\ogrenciDetay.cs",
+              "RelativeDocumentMoniker": "not_kayit\\ogrenciDetay.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\ogrenciDetay.cs",
+              "RelativeToolTip": "not_kayit\\ogrenciDetay.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:54:58.588Z",
+              "WhenOpened": "2025-06-18T18:05:36.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\Form1.cs",
-              "RelativeDocumentMoniker": "not_kayit\\Form1.cs",
-              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\Form1.cs [Design]",
-              "RelativeToolTip": "not_kayit\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "ogrenciDetay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\ogrenciDetay.cs",
+              "RelativeDocumentMoniker": "not_kayit\\ogrenciDetay.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\ogrenciDetay.cs [Design]",
+              "RelativeToolTip": "not_kayit\\ogrenciDetay.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:38:58.293Z",
+              "WhenOpened": "2025-06-18T18:05:35.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "girisFormu.cs",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\girisFormu.cs",
+              "RelativeDocumentMoniker": "not_kayit\\girisFormu.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\girisFormu.cs",
+              "RelativeToolTip": "not_kayit\\girisFormu.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:01:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "girisFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\girisFormu.cs",
+              "RelativeDocumentMoniker": "not_kayit\\girisFormu.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\girisFormu.cs [Design]",
+              "RelativeToolTip": "not_kayit\\girisFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T18:01:12.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ogretmenDetay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\ogretmenDetay.cs",
+              "RelativeDocumentMoniker": "not_kayit\\ogretmenDetay.cs",
+              "ToolTip": "C:\\Users\\yurto\\Documents\\GitHub\\Sinav_not_kayit_sistem\\not_kayit\\not_kayit\\ogretmenDetay.cs [Design]",
+              "RelativeToolTip": "not_kayit\\ogretmenDetay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T17:48:13.299Z",
               "EditorCaption": " [Design]"
             }
           ]

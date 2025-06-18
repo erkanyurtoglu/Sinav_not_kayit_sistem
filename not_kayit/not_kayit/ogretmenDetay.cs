@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace not_kayit
 {
-    public partial class Form1 : Form
+    public partial class ogretmenDetay : Form
     {
-        public Form1()
+        public ogretmenDetay()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
+        private void groupBox3_Enter(object sender, EventArgs e)
         {
 
         }
